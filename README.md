@@ -1,68 +1,54 @@
-## Hi there 👋
-
 # 👋 ¡Hola! Soy Mengi
 
-Soy un **Frontend Developer especializado en Angular** con experiencia creando aplicaciones web modernas, reutilizables y mantenibles. Actualmente trabajo en [nombre de tu empresa], y estoy comprometido con escribir código limpio y escalable.
+Desarrollador Frontend especializado en **Angular**, con experiencia en la creación de aplicaciones web modernas, reutilizables y mantenibles. Actualmente, formo parte del equipo de desarrollo en **Nter Tech Services**, donde participo en proyectos innovadores y desafiantes.
 
 ---
 
-## 🚀 Tecnologías que domino
+## 🛠️ Tecnologías y herramientas
 
-- ⚡ Angular (vX a vY)
-- 🎨 HTML5, SCSS, CSS3
-- 📦 RxJS, NgRx
-- 🧰 TypeScript, JavaScript ES6+
-- 💡 Bootstrap, Tailwind CSS
-- 🔌 REST APIs, Interceptors, Guards
-- 🛠️ Git, GitHub, Git Flow
-- 🧪 Testing con Jasmine, Karma
-- 🖼️ Diseño responsivo (Flexbox, Grid)
+- **Frameworks y Lenguajes**: Angular, TypeScript, JavaScript ES6+
+- **Estilos y Diseño**: HTML5, CSS3, SCSS, Bootstrap, Tailwind CSS
+- **Gestión de Estado y Datos**: RxJS, NgRx
+- **Control de Versiones**: Git, GitHub
+- **Otras herramientas**: REST APIs, Interceptors, Guards
 
 ---
 
-## 🧪 Proyectos destacados
+## 💼 Experiencia Profesional
 
-### 🔹 Rick’s Multiverse  
-_App de gestión de personajes de Rick and Morty con funcionalidades avanzadas:_
-- Autenticación por rol (Admin vs Invitado)
-- CRUD completo y búsqueda
-- API externa y estado reactivo con servicios
+### Nter Tech Services
+- Desarrollo de aplicaciones web utilizando HTML, SCSS y Angular.
+- Implementación de soluciones eficientes y escalables para clientes del sector tecnológico.
+- Colaboración en equipos multidisciplinarios siguiendo metodologías ágiles.
+
+---
+
+## 🎓 Formación Académica
+
+- **Técnico Superior en Desarrollo de Aplicaciones Web**  
+  IES Las Fuentezuelas, Jaén
+
+---
+
+## 🚀 Proyectos Destacados
+
+### Rick’s Multiverse
+Aplicación web que permite la gestión de personajes de la serie "Rick and Morty", con funcionalidades avanzadas como:
+- Autenticación basada en roles (Administrador e Invitado)
+- CRUD completo y búsqueda de personajes
+- Integración con API externa y manejo de estado reactivo
 - Soporte para temas claro/oscuro
 
 🔗 [Ver repositorio](https://github.com/tuusuario/ricks-multiverse)
 
 ---
 
-## 📚 Formación continua
-
-- Curso Avanzado de Angular
-- Curso Java Backend (actualmente en progreso)
-- Angular desde cero (openWebinars / Udemy)
-
----
-
 ## 📫 Contacto
 
-- 📧 mengi.dev@email.com
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
-- 🌐 [Portfolio web](https://tuweb.dev) _(si tienes uno)_
+- 📧 Correo: [mengiibaar@gmail.com](mailto:mengiibaar@gmail.com)
+- 💼 LinkedIn: [francisco-jesus-mengibar-gutierrez](https://www.linkedin.com/in/francisco-jesus-mengibar-gutierrez/)
 
 ---
 
-> “El frontend no es solo lo que se ve, sino cómo se siente.”  
+> “El frontend no es solo lo que se ve, sino cómo se siente.”
 
-
-<!--
-**meengii/meengii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

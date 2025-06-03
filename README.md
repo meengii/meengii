@@ -18,9 +18,9 @@ Desarrollador Frontend especializado en **Angular**, con experiencia en la creac
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -87,9 +87,3 @@ Aplicación Angular para gestionar personajes del universo Rick and Morty con:
 - 📧 Email: [mengiibaar@gmail.com](mailto:mengiibaar@gmail.com)
 - 💼 LinkedIn: [francisco-jesus-mengibar-gutierrez](https://www.linkedin.com/in/francisco-jesus-mengibar-gutierrez/)
 
----
-
-### 📊 GitHub Stats _(opcional)_
-
-```markdown
-![Mengi's GitHub stats](https://github-readme-stats.vercel.app/api?username=meengii&show_icons=true&theme=radical)
